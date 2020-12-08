@@ -2318,3 +2318,29 @@ fatal: D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Media/MediaC
 
 [2020.12.08-09.26.08:793][375]LogSourceControl: RunCommand: 'git ls-remote origin main "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content"'
 [2020.12.08-09.26.10:456][380]LogSourceControl: RunCommand: 'git diff --name-only origin/main  HEAD "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content"'
+[2020.12.08-09.26.10:789][381]LogSourceControl: Warning: RunCommand(diff) ReturnCode=128:
+fatal: D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/MegaJam2020/MegaJam2020'
+
+[2020.12.08-09.26.10:789][381]LogSourceControl: RunCommand: 'git status --porcelain --ignored "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content"'
+[2020.12.08-09.26.10:789][381]LogSourceControl: Warning: RunCommand(status) ReturnCode=128:
+fatal: D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/MegaJam2020/MegaJam2020'
+
+[2020.12.08-09.26.10:789][381]LogSourceControl: RunCommand: 'git ls-remote origin main "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content"'
+[2020.12.08-09.26.12:463][386]LogSourceControl: RunCommand: 'git diff --name-only origin/main  HEAD "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content"'
+[2020.12.08-09.26.12:798][387]LogSourceControl: Warning: RunCommand(diff) ReturnCode=128:
+fatal: D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/MegaJam2020/MegaJam2020'
+
+[2020.12.08-09.26.12:798][387]LogSourceControl: RunCommand: 'git status --porcelain --ignored "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content"'
+[2020.12.08-09.26.12:798][387]LogSourceControl: Warning: RunCommand(status) ReturnCode=128:
+fatal: D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/MegaJam2020/MegaJam2020'
+
+[2020.12.08-09.26.12:798][387]LogSourceControl: RunCommand: 'git ls-remote origin main "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content"'
+[2020.12.08-09.26.14:796][393]LogSourceControl: RunCommand: 'git diff --name-only origin/main  HEAD "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content"'
+[2020.12.08-09.26.14:796][393]LogSourceControl: Warning: RunCommand(diff) ReturnCode=128:
+fatal: D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/MegaJam2020/MegaJam2020'
+
+[2020.12.08-09.26.14:796][393]LogSourceControl: RunCommand: 'git status --porcelain --ignored "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content"'
+[2020.12.08-09.26.14:796][393]LogSourceControl: Warning: RunCommand(status) ReturnCode=128:
+fatal: D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/MegaJam2020/MegaJam2020'
+
+[2020.12.08-09.26.14:796][393]LogSourceControl: RunCommand: 'git ls-remote origin main "D:/Program Files/Epic Games/UE_4.25.2/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content"'
